@@ -1,4 +1,4 @@
-# https://main.d3fk1zvxmeyl0n.amplifyapp.com/  
+# https://main.d3fk1zvxmeyl0n.amplifyapp.com/home/characters  
 
 # C5UD38
 
