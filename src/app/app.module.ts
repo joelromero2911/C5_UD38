@@ -9,6 +9,7 @@ import { CharactersComponent } from './characters/characters.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './home/home.component';
 import { AboutUsComponent } from './about-us/about-us.component';
+import { VerDetallesComponent } from './ver-detalles/ver-detalles.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { AboutUsComponent } from './about-us/about-us.component';
     NavbarComponent,
     CharactersComponent,
     HomeComponent,
-    AboutUsComponent
+    AboutUsComponent,
+    VerDetallesComponent
   ],
   imports: [
     BrowserModule,

@@ -5,7 +5,7 @@
         <img class="card-img-top" src="{{ char.image }}" alt="Imagen {{ char.name }}">
         <div class="card-body">
           <h5 class="card-title">{{ char.name }}</h5>
-          <a href="#" class="btn btn-primary">Ver detalles</a>
+          <a routerLink="/ver-detalles/{{ char.id }}" class="btn btn-primary">Ver detalles</a>
         </div>
       </div>
 
